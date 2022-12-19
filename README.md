@@ -5,9 +5,9 @@ Bu repo [kodluyoruz](http://kodluyoruz.org) Front-End eğitiminde oluşturduğum
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-'''
+```
 git clone https://github.com/burakeyler/kodluyoruzilkrepo.git
-'''
+```
 
 # Usage
 
@@ -15,10 +15,10 @@ Projeyi clonladıktan sonra  Visual Studio Code programını açınız.
 
 Linux için 
 
-'
+```
 cd kodluyoruzilkrepo
 code .
-'
+```
 
 # Contributing
 
